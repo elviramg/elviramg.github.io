@@ -18,6 +18,27 @@ h1 {
 }
 
 .blog-link {
-  color: #7c3aed;
+  color: #11d17a;
   text-decoration: none;
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin: 0 15px;
+    color: #666;
+    text-decoration: none;
+}
+
+.logo {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.logo img {
+    width: 48px;
+    height: 48px;
 }
