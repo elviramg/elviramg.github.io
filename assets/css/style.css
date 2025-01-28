@@ -62,3 +62,43 @@ footer {
   color: #666;
   margin-top: auto;
 }
+
+.current-ongoings {
+  text-align: left;
+  margin-left: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.custom-list {
+  padding-left: 2rem;
+}
+
+.custom-list li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 0.5rem;
+}
+
+.hello-image {
+  max-width: 400px; /* imagen más pequeña */
+  height: auto;
+}
+
+.image-container {
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-caption {
+  margin-top: 1rem;
+  font-style: italic;
+  color: #666;
+  text-align: center;
+  width: 100%;
+}
